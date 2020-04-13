@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fdcf1e6f-8c10-4df6-bfeb-0e7fd48438ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeProblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeProblems.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +56,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1076" y="585" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1586034555736" />
-    <state x="662" y="320" key="new project wizard" timestamp="1586332540409">
+    <state x="662" y="320" key="new project wizard" timestamp="1586366844409">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="662" y="320" key="new project wizard/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1586332540409" />
+    <state x="662" y="320" key="new project wizard/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1586366844409" />
   </component>
 </project>

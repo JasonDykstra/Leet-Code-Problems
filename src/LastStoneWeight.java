@@ -10,7 +10,7 @@ public class LastStoneWeight {
         //so I'll probably use a different data structure for this problem
 
         //use a priority queue and pop the two largest elements, then push back the result, or the difference
-        //here, a lambda expression is used to 
+        //here, a lambda expression is used to
         PriorityQueue<Integer> stoneQueue = new PriorityQueue<>((a, b) -> b - a);
 
         for (int a : stones)
